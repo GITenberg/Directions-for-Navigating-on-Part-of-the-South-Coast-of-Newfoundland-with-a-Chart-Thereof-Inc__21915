@@ -1,0 +1,34 @@
+_repo: Directions-for-Navigating-on-Part-of-the-South-Coast-of-Newfoundland-with-a-Chart-Thereof-Inc__21915
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cook, James
+    birthdate: 1728
+    deathdate: 1779
+    gutenberg_agent_id: '2644'
+    url: http://www.gutenberg.org/2009/agents/2644
+    wikipedia: http://en.wikipedia.org/wiki/James_Cook
+description: ''
+gutenberg_issued: '2007-06-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21915'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Navigation -- Newfoundland and Labrador'
+- !lcsh 'Pilot guides -- Newfoundland and Labrador'
+- !lcc 'VK'
+title: 'Directions for Navigating on Part of the South Coast of Newfoundland, with
+  a Chart Thereof, Including the Islands of St. Peter''s and Miquelon
+
+  And a Particular Account of the Bays, Harbours, Rocks, Land-marks, Depths of Water,
+  Latitudes, Bearings, and Distances from Place to Place, the Setting of the Currents,
+  and Flowing of the Tides, &c., from an Actual Survey, Taken by Order of Commodore
+  Pallisser, Governor of Newfoundland, Labradore, &c.'
+url: http://www.gutenberg.org/ebooks/21915
